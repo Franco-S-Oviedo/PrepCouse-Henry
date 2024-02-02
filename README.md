@@ -1,2 +1,1 @@
-# PrepCouse-Henry
-Este es un repositorio de prueba modulo2 de Henry
+Este es un proyecto de prueba de sobre como crear y clonar un repositorio desde mi github a mi escritorio
